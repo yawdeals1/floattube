@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Floating video frame -->
+  <rect x="8" y="14" width="48" height="30" rx="5" ry="5" fill="#6C63FF"/>
+  <!-- Screen content bars -->
+  <rect x="15" y="21" width="30" height="4" rx="2" fill="#B0ACFF" opacity="0.65"/>
+  <rect x="15" y="28" width="20" height="4" rx="2" fill="#B0ACFF" opacity="0.42"/>
+  <!-- Levitation ripple arcs -->
+  <path d="M 20 52 Q 32 46.5 44 52" stroke="#6C63FF" stroke-width="2.5" stroke-linecap="round" opacity="0.52" fill="none"/>
+  <path d="M 24 57.5 Q 32 53.5 40 57.5" stroke="#6C63FF" stroke-width="2" stroke-linecap="round" opacity="0.28" fill="none"/>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "name": "FloatTube",
+  "short_name": "FloatTube",
+  "description": "Float any YouTube video into an always-on-top window",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B0B14",
+  "theme_color": "#0B0B14",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "entertainment"]
+}
